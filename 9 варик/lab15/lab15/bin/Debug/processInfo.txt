@@ -1,0 +1,865 @@
+ProcName: ctfmon
+ProcId: 9144
+
+
+
+ProcName: svchost
+ProcId: 16804
+
+
+
+ProcName: svchost
+ProcId: 3872
+
+
+
+ProcName: svchost
+ProcId: 17232
+
+
+
+ProcName: RAVCpl64
+ProcId: 420
+
+
+
+ProcName: svchost
+ProcId: 3004
+
+
+
+ProcName: ServiceHub.VSDetouredHost
+ProcId: 13776
+
+
+
+ProcName: svchost
+ProcId: 2136
+
+
+
+ProcName: wininit
+ProcId: 836
+
+
+
+ProcName: sedsvc
+ProcId: 7300
+
+
+
+ProcName: svchost
+ProcId: 828
+
+
+
+ProcName: chrome
+ProcId: 17200
+
+
+
+ProcName: svchost
+ProcId: 6452
+
+
+
+ProcName: svchost
+ProcId: 2116
+
+
+
+ProcName: SkypeBackgroundHost
+ProcId: 10304
+
+
+
+ProcName: svchost
+ProcId: 4268
+
+
+
+ProcName: conhost
+ProcId: 16576
+
+
+
+ProcName: WmiPrvSE
+ProcId: 2744
+
+
+
+ProcName: svchost
+ProcId: 1104
+
+
+
+ProcName: svchost
+ProcId: 1668
+
+
+
+ProcName: svchost
+ProcId: 4684
+
+
+
+ProcName: svchost
+ProcId: 372
+
+
+
+ProcName: svchost
+ProcId: 13584
+
+
+
+ProcName: svchost
+ProcId: 360
+
+
+
+ProcName: cmd
+ProcId: 16736
+
+
+
+ProcName: svchost
+ProcId: 2080
+
+
+
+ProcName: chrome
+ProcId: 15440
+
+
+
+ProcName: RuntimeBroker
+ProcId: 4232
+
+
+
+ProcName: conhost
+ProcId: 9828
+
+
+
+ProcName: ServiceHub.SettingsHost
+ProcId: 17756
+
+
+
+ProcName: svchost
+ProcId: 2496
+
+
+
+ProcName: ServiceHub.IdentityHost
+ProcId: 5512
+
+
+
+ProcName: svchost
+ProcId: 6372
+
+
+
+ProcName: explorer
+ProcId: 6800
+
+
+
+ProcName: svchost
+ProcId: 10676
+
+
+
+ProcName: svchost
+ProcId: 9812
+
+
+
+ProcName: svchost
+ProcId: 2484
+
+
+
+ProcName: RuntimeBroker
+ProcId: 17136
+
+
+
+ProcName: RAVBg64
+ProcId: 15972
+
+
+
+ProcName: svchost
+ProcId: 3980
+
+
+
+ProcName: svchost
+ProcId: 2476
+
+
+
+ProcName: ServiceHub.Host.CLR.x86
+ProcId: 17600
+
+
+
+ProcName: RuntimeBroker
+ProcId: 10224
+
+
+
+ProcName: svchost
+ProcId: 11516
+
+
+
+ProcName: svchost
+ProcId: 3324
+
+
+
+ProcName: svchost
+ProcId: 1596
+
+
+
+ProcName: svchost
+ProcId: 1164
+
+
+
+ProcName: csrss
+ProcId: 724
+
+
+
+ProcName: chrome
+ProcId: 12720
+
+
+
+ProcName: DMedia
+ProcId: 2872
+
+
+
+ProcName: svchost
+ProcId: 716
+
+
+
+ProcName: nvcontainer
+ProcId: 7180
+
+
+
+ProcName: svchost
+ProcId: 5020
+
+
+
+ProcName: VBCSCompiler
+ProcId: 18380
+
+
+
+ProcName: egui
+ProcId: 12532
+
+
+
+ProcName: svchost
+ProcId: 1992
+
+
+
+ProcName: igfxEM
+ProcId: 9748
+
+
+
+ProcName: svchost
+ProcId: 7592
+
+
+
+ProcName: ATKOSD2
+ProcId: 9312
+
+
+
+ProcName: svchost
+ProcId: 1984
+
+
+
+ProcName: SgrmBroker
+ProcId: 3276
+
+
+
+ProcName: chrome
+ProcId: 10816
+
+
+
+ProcName: MSBuild
+ProcId: 10600
+
+
+
+ProcName: svchost
+ProcId: 2408
+
+
+
+ProcName: ServiceHub.RoslynCodeAnalysisService32
+ProcId: 17532
+
+
+
+ProcName: LockApp
+ProcId: 1972
+
+
+
+ProcName: AsLdrSrv
+ProcId: 3264
+
+
+
+ProcName: svchost
+ProcId: 15976
+
+
+
+ProcName: backgroundTaskHost
+ProcId: 11880
+
+
+
+ProcName: svchost
+ProcId: 2828
+
+
+
+ProcName: svchost
+ProcId: 6704
+
+
+
+ProcName: svchost
+ProcId: 2388
+
+
+
+ProcName: ShellExperienceHost
+ProcId: 7556
+
+
+
+ProcName: svchost
+ProcId: 1516
+
+
+
+ProcName: TeamViewer_Service
+ProcId: 4100
+
+
+
+ProcName: audiodg
+ProcId: 13580
+
+
+
+ProcName: svchost
+ProcId: 1508
+
+
+
+ProcName: esif_uf
+ProcId: 3888
+
+
+
+ProcName: fontdrvhost
+ProcId: 1068
+
+
+
+ProcName: svchost
+ProcId: 1928
+
+
+
+ProcName: chrome
+ProcId: 7256
+
+
+
+ProcName: GoogleUpdate
+ProcId: 16148
+
+
+
+ProcName: winlogon
+ProcId: 8388
+
+
+
+ProcName: devenv
+ProcId: 4508
+
+
+
+ProcName: svchost
+ProcId: 3212
+
+
+
+ProcName: chrome
+ProcId: 6228
+
+
+
+ProcName: sedlauncher
+ProcId: 14844
+
+
+
+ProcName: svchost
+ProcId: 2344
+
+
+
+ProcName: svchost
+ProcId: 4060
+
+
+
+ProcName: SkypeApp
+ProcId: 17004
+
+
+
+ProcName: NVDisplay.Container
+ProcId: 2332
+
+
+
+ProcName: WmiApSrv
+ProcId: 4052
+
+
+
+ProcName: svchost
+ProcId: 7068
+
+
+
+ProcName: ServiceHub.Host.Node.x86
+ProcId: 9380
+
+
+
+ProcName: RuntimeBroker
+ProcId: 11376
+
+
+
+ProcName: RstMwService
+ProcId: 4044
+
+
+
+ProcName: WUDFHost
+ProcId: 752
+
+
+
+ProcName: lab15
+ProcId: 11068
+
+
+
+ProcName: csrss
+ProcId: 6192
+
+
+
+ProcName: fontdrvhost
+ProcId: 588
+
+
+
+ProcName: svchost
+ProcId: 3964
+
+
+
+ProcName: KMSSS
+ProcId: 3880
+
+
+
+ProcName: svchost
+ProcId: 4028
+
+
+
+ProcName: conhost
+ProcId: 13884
+
+
+
+ProcName: RuntimeBroker
+ProcId: 13076
+
+
+
+ProcName: svchost
+ProcId: 3256
+
+
+
+ProcName: SettingSyncHost
+ProcId: 14796
+
+
+
+ProcName: svchost
+ProcId: 4020
+
+
+
+ProcName: svchost
+ProcId: 15652
+
+
+
+ProcName: Locator
+ProcId: 4012
+
+
+
+ProcName: svchost
+ProcId: 560
+
+
+
+ProcName: SearchUI
+ProcId: 17248
+
+
+
+ProcName: hasplms
+ProcId: 4004
+
+
+
+ProcName: svchost
+ProcId: 4432
+
+
+
+ProcName: svchost
+ProcId: 10896
+
+
+
+ProcName: Registry
+ProcId: 120
+
+
+
+ProcName: svchost
+ProcId: 1412
+
+
+
+ProcName: svchost
+ProcId: 3996
+
+
+
+ProcName: csrss
+ProcId: 3564
+
+
+
+ProcName: svchost
+ProcId: 3988
+
+
+
+ProcName: svchost
+ProcId: 16548
+
+
+
+ProcName: ekrn
+ProcId: 1828
+
+
+
+ProcName: svchost
+ProcId: 1396
+
+
+
+ProcName: nvcontainer
+ProcId: 9844
+
+
+
+ProcName: conhost
+ProcId: 3548
+
+
+
+ProcName: svchost
+ProcId: 2684
+
+
+
+ProcName: svchost
+ProcId: 2252
+
+
+
+ProcName: nvcontainer
+ProcId: 3972
+
+
+
+ProcName: dasHost
+ProcId: 4516
+
+
+
+ProcName: svchost
+ProcId: 3108
+
+
+
+ProcName: svchost
+ProcId: 5688
+
+
+
+ProcName: wlanext
+ProcId: 3528
+
+
+
+ProcName: PerfWatson2
+ProcId: 8268
+
+
+
+ProcName: IntelCpHDCPSvc
+ProcId: 3956
+
+
+
+ProcName: SecurityHealthService
+ProcId: 3948
+
+
+
+ProcName: lsass
+ProcId: 928
+
+
+
+ProcName: IntelCpHeciSvc
+ProcId: 4804
+
+
+
+ProcName: Memory Compression
+ProcId: 2648
+
+
+
+ProcName: svchost
+ProcId: 3940
+
+
+
+ProcName: igfxCUIService
+ProcId: 1784
+
+
+
+ProcName: NVDisplay.Container
+ProcId: 16868
+
+
+
+ProcName: conhost
+ProcId: 7384
+
+
+
+ProcName: svchost
+ProcId: 9104
+
+
+
+ProcName: HControl
+ProcId: 6948
+
+
+
+ProcName: svchost
+ProcId: 3068
+
+
+
+ProcName: services
+ProcId: 912
+
+
+
+ProcName: ICEsoundService64
+ProcId: 3928
+
+
+
+ProcName: svchost
+ProcId: 1772
+
+
+
+ProcName: dwm
+ProcId: 16852
+
+
+
+ProcName: RtkBtManServ
+ProcId: 3920
+
+
+
+ProcName: svchost
+ProcId: 1764
+
+
+
+ProcName: taskhostw
+ProcId: 15124
+
+
+
+ProcName: svchost
+ProcId: 16844
+
+
+
+ProcName: svchost
+ProcId: 2620
+
+
+
+ProcName: armsvc
+ProcId: 3912
+
+
+
+ProcName: RuntimeBroker
+ProcId: 9944
+
+
+
+ProcName: svchost
+ProcId: 2184
+
+
+
+ProcName: SkypeBridge
+ProcId: 16404
+
+
+
+ProcName: svchost
+ProcId: 3904
+
+
+
+ProcName: Core Temp
+ProcId: 15108
+
+
+
+ProcName: svchost
+ProcId: 1312
+
+
+
+ProcName: svchost
+ProcId: 448
+
+
+
+ProcName: svchost
+ProcId: 15532
+
+
+
+ProcName: svchost
+ProcId: 876
+
+
+
+ProcName: svchost
+ProcId: 2168
+
+
+
+ProcName: SearchIndexer
+ProcId: 8200
+
+
+
+ProcName: svchost
+ProcId: 5000
+
+
+
+ProcName: spoolsv
+ProcId: 3456
+
+
+
+ProcName: sihost
+ProcId: 14300
+
+
+
+ProcName: System
+ProcId: 4
+
+
+
+ProcName: svchost
+ProcId: 7760
+
+
+
+ProcName: smss
+ProcId: 432
+
+
+
+ProcName: Idle
+ProcId: 0
+
+
+

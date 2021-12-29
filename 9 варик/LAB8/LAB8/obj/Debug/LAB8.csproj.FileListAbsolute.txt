@@ -1,0 +1,14 @@
+D:\university\2 curse\ооп\8\LAB8\LAB8\bin\Debug\LAB8.exe.config
+D:\university\2 curse\ооп\8\LAB8\LAB8\bin\Debug\LAB8.exe
+D:\university\2 curse\ооп\8\LAB8\LAB8\bin\Debug\LAB8.pdb
+D:\university\2 curse\ооп\8\LAB8\LAB8\obj\Debug\LAB8.csprojAssemblyReference.cache
+D:\university\2 curse\ооп\8\LAB8\LAB8\obj\Debug\LAB8.csproj.CoreCompileInputs.cache
+D:\university\2 curse\ооп\8\LAB8\LAB8\obj\Debug\LAB8.exe
+D:\university\2 curse\ооп\8\LAB8\LAB8\obj\Debug\LAB8.pdb
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\bin\Debug\LAB8.exe.config
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\bin\Debug\LAB8.exe
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\bin\Debug\LAB8.pdb
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\obj\Debug\LAB8.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\obj\Debug\LAB8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\obj\Debug\LAB8.exe
+C:\Users\Lenovo\Desktop\ООП\OOP-labs-master\LAB8\LAB8\obj\Debug\LAB8.pdb
